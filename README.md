@@ -16,3 +16,5 @@ If you would like to see where it has started - here is the thread in the [loewe
 
 Current state is: **work-in-progress** (currently no release to deploy).
 
+
+This software is **100% unofficial**.This project has absolutely no subjection nor any relation to the manufacturer of the Mediacenter (Loewe Opta GmbH; today: Loewe Technologies GmbH). Use of this code at your own risk.

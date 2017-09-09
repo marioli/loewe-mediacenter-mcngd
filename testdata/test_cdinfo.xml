@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<!DOCTYPE cdinfo SYSTEM "http://www.openglobe.com/eureka/cdinfo.dtd">
+<cdinfo href="erp://Loewe-Mediacenter-RS-C129-L2X7.4-00233/etc/fireball/Database/Music/CDs/s4/s2/689563542.xml?type=cdinfo" version="1.0" unknowngenre="true" unknowncoverart="true">
+        <saveincatalog>true</saveincatalog>
+        <identified>false</identified>
+        <toc>150,12605,28564,43931,56440,74277,91000,108421,124324,138881,151925,171086,188472,202650</toc>
+        <artist>UnknownArtist</artist>
+        <title>Unknown CD #7</title>
+        <titlesort>UnknownTitle</titlesort>
+        <systemgroup>All</systemgroup>
+        <systemgroup>CDs</systemgroup>
+        <coverart>erp://Loewe-Mediacenter-RS-C129-L2X7.4-00233/UnknownCoverArt</coverart>
+        <lastserverlookup>1503439085</lastserverlookup>
+        <track number="1" length="166">Track 1</track>
+        <track number="2" length="212">Track 2</track>
+        <track number="3" length="204">Track 3</track>
+        <track number="4" length="166">Track 4</track>
+        <track number="5" length="237">Track 5</track>
+        <track number="6" length="222">Track 6</track>
+        <track number="7" length="232">Track 7</track>
+        <track number="8" length="212">Track 8</track>
+        <track number="9" length="194">Track 9</track>
+        <track number="10" length="173">Track 10</track>
+        <track number="11" length="255">Track 11</track>
+        <track number="12" length="231">Track 12</track>
+        <track number="13" length="189">Track 13</track>
+</cdinfo>
+
